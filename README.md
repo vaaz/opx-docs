@@ -4,7 +4,7 @@ The OpenSwitch OPX Base system is an innovative operating system for network sys
 
 OPX Base uses an unmodified Linux kernel and standard distribution to take advantage of rich ecosystem, and also provide flexibility in customizing your Base system according to your network needs.
 
-This information describes how to obtain source code, build, install, and use the OpenSwitch system packages for hardware platforms. Also provided are brief descriptions of the architecture, run-time environment, and code structure of the OpenSwitch project.
+Included is information which describes how to obtain source code, build, install, and use the OpenSwitch system packages for hardware platforms. Also provided are brief descriptions of the architecture, run-time environment, and code structure of the OpenSwitch project.
 
 See [OpenSwitch OPX Base Wiki](https://github.com/open-switch/opx-docs/wiki) for complete information.
 
